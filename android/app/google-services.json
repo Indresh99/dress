@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811477889850",
+    "firebase_url": "https://khushi-dress-center.firebaseio.com",
+    "project_id": "khushi-dress-center",
+    "storage_bucket": "khushi-dress-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811477889850:android:9074396bde1717e1a2d603",
+        "android_client_info": {
+          "package_name": "indresh.ib.com.dress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811477889850-o18oj13ucemkhik58qbnmuddoc3gpmhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "indresh.ib.com.dress",
+            "certificate_hash": "ec992debbf311d699d3a31f831772661af127676"
+          }
+        },
+        {
+          "client_id": "811477889850-h5jm2mm2mo5q6gp98ebi5927qrasfpts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDudK40X6fAc3diCM6uwZbhYMvzBwizXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811477889850-h5jm2mm2mo5q6gp98ebi5927qrasfpts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
